@@ -1,9 +1,12 @@
 # EduGenie-AI-Powered-Learning-Assistant
 🎓 EduGenie – Google Gemini Powered Learning Assistant
+
 📌 Project Overview
 EduGenie is an AI-powered educational web application designed to make learning smarter, faster, and more interactive. 🚀 It combines the power of Google Gemini AI with modern web technologies to provide students, educators, and self-learners with instant educational support through an intuitive and user-friendly interface.
 Whether you need quick answers to academic questions, simplified explanations of difficult concepts, practice quizzes, concise summaries, or a personalized learning roadmap, EduGenie serves as your intelligent learning companion. 📚🤖
 The application is developed using FastAPI for a fast and efficient backend, while the frontend is built with HTML, CSS, and JavaScript to deliver a responsive and seamless user experience across devices. By integrating Google Gemini AI, EduGenie generates accurate, context-aware, and meaningful educational responses in real time. ⚡
+
+
 🌟 What EduGenie Can Do
 📖 Answer Academic Questions – Get accurate and AI-generated responses to your educational queries.
 💡 Explain Complex Concepts – Understand difficult topics through simple and easy-to-follow explanations.
